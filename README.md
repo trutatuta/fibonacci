@@ -25,3 +25,5 @@ Wersja produkcyjna, Dockerfile w folderze "app" oraz plik docker-compose1.yml
 ```
 docker compose -f docker-compose1.yml up --build
 ```
+
+#Wykonał Hrybinchyk Bohdan
